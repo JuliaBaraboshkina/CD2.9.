@@ -1,5 +1,4 @@
 import React from "react";
-import Constants from "expo-constants";
 import {StyleSheet,Text,View,ScrollView,ImageBackground,TouchableOpacity,ToastAndroid,Dimensions,Platform,ActionSheetIOS,Alert,} from "react-native";
 
 const items = {
